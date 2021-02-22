@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b4b7e26-aa93-457a-9b1c-7c4aeaf5dcd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/.idea/dictionaries/Rajesh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/Gmail_Automation_BDD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/css/cucumber.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/js/jquery.tablesorter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/overview-failures.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/overview-features.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/overview-steps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/overview-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/reports/cucumberTest/cucumber-html-reports/report-feature_features-bdd-feature_feature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/resources/cucumberTest/features/gmail.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/test-results/cucumber/cucumberTest/features.bdd.feature-err.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/test-results/cucumber/cucumberTest/features.bdd.feature-out.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/test-results/cucumber/cucumberTest/features.bdd.feature.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/build/test-results/cucumber/cucumberTest/features.bdd.feature.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD_programs/src/cucumberTest/resources/features/gmail.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/build/classes/java/cucumberTest/com/selenium/hooks/Hooks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/build/classes/java/cucumberTest/com/selenium/pages/FacebookLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/build/classes/java/cucumberTest/com/selenium/stepDefs/FacebookStepDefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/src/cucumberTest/java/com/selenium/hooks/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/src/cucumberTest/java/com/selenium/stepDefs/FacebookStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/src/cucumberTest/resources/features/Facebook.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/src/main/java/com/company/FacebookLoginCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingTrainedOnSelenium/src/test/resources/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/company/BrowserStackCapabilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/company/sample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/company/sauceLabs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/company/sauceLabsExtn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/test/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/BrowserStackCapabilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/SauceLabs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/build/classes/java/main/com/company/Alerts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/build/classes/java/main/com/company/AutosuggetiveDropDowns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/build/classes/java/main/com/company/Facebook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/build/classes/java/main/com/company/ParentChildXpath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/build/classes/java/main/com/company/Salesforce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/build/classes/java/main/com/company/UncheckAndCheckTheBoxes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/build/classes/java/main/com/company/rediff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/build/classes/java/main/com/company/spiceject/Assertions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/build/classes/java/main/com/company/spiceject/CheckboxSelection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/build/classes/java/main/com/company/spiceject/Dropdown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/build/classes/java/main/com/company/spiceject/E2ESpiceJetAutomation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/build/classes/java/main/com/company/spiceject/FromAndToLocation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/build/classes/java/main/com/company/spiceject/HandlingCalenderUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/src/main/java/com/company/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/src/main/java/com/company/AutosuggetiveDropDowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/src/main/java/com/company/Facebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/src/main/java/com/company/ParentChildXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/src/main/java/com/company/Salesforce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/src/main/java/com/company/UncheckAndCheckTheBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/src/main/java/com/company/rediff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/src/main/java/com/company/spiceject/Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/src/main/java/com/company/spiceject/CheckboxSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/src/main/java/com/company/spiceject/Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/src/main/java/com/company/spiceject/E2ESpiceJetAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/src/main/java/com/company/spiceject/FromAndToLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/src/main/java/com/company/spiceject/HandlingCalenderUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearnings/src/test/resources/drivers/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDD_programs/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../BDD_programs/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDD_programs/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../BDD_programs/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDD_programs/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../BDD_programs/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDD_programs/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../BDD_programs/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDD_programs/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../BDD_programs/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDD_programs/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../BDD_programs/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDD_programs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BDD_programs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDD_programs/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../BDD_programs/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDD_programs/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../BDD_programs/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDD_programs/src/cucumberTest/java/com/company/BddProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDD_programs/src/cucumberTest/java/com/company/BddStepdefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BDD_programs/src/cucumberTest/resources/features/bdd.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Practuice Programs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Practuice Programs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Practice_programs Part-2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_Practice_programs Part-2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online_read_source_code/OOPS_Classes_and_Objects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Online_read_source_code/OOPS_Classes_and_Objects/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Lalitha\IntelliJIDEA\SauceLabsAndBrowserStackAutomation\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1omhHpXvV4ArgQ3x1FdEYQj63Ys" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/DRIVERS/testng-7.1.0.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Lalitha\IntelliJIDEA\SauceLabsAndBrowserStackAutomation\src\test\resources\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.sauceLabsExtn">
+    <configuration name="sauceLabs" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="MAIN_CLASS_NAME" value="com.company.SauceLabs" />
+      <module name="SauceLabsAndBrowserStackAutomation.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sauceLabsExtn" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.company.sauceLabsExtn&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.sauceLabs" />
+      <item itemvalue="Gradle.sauceLabsExtn" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.sauceLabsExtn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b4b7e26-aa93-457a-9b1c-7c4aeaf5dcd1" name="Default Changelist" comment="" />
+      <created>1613897588023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613897588023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="129" key="#File_and_Code_Templates" timestamp="1613903160611">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="462" y="129" key="#File_and_Code_Templates/0.0.1739.939@0.0.1739.939" timestamp="1613903160611" />
+    <state x="325" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613902458124">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="325" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1739.939@0.0.1739.939" timestamp="1613902458124" />
+    <state x="650" y="225" key="FileChooserDialogImpl" timestamp="1613903742047">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="650" y="225" key="FileChooserDialogImpl/0.0.1739.939@0.0.1739.939" timestamp="1613903742047" />
+    <state width="1696" height="399" key="GridCell.Tab.0.bottom" timestamp="1613904805774">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="399" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1613904805774" />
+    <state width="1696" height="399" key="GridCell.Tab.0.center" timestamp="1613904805774">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="399" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1613904805774" />
+    <state width="1696" height="399" key="GridCell.Tab.0.left" timestamp="1613904805773">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="399" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1613904805773" />
+    <state width="1696" height="399" key="GridCell.Tab.0.right" timestamp="1613904805774">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="399" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1613904805774" />
+    <state x="350" y="45" key="SettingsEditor" timestamp="1613904816581">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="350" y="45" key="SettingsEditor/0.0.1739.939@0.0.1739.939" timestamp="1613904816581" />
+    <state x="462" y="203" key="Vcs.Push.Dialog.v2" timestamp="1613977569557">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="462" y="203" key="Vcs.Push.Dialog.v2/0.0.1739.939@0.0.1739.939" timestamp="1613977569557" />
+  </component>
+</project>
